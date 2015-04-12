@@ -1,2 +1,0 @@
-# Kishore
-Kishore_repo
